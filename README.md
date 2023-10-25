@@ -21,4 +21,9 @@ Best fit determines most probable depolarisation path
 Step 4:
 Draw selected loop on mesh with amplitude coloring
 
+
+Research:
+- What Python Library can do 3D Visualisation?
+- Plan data storage to fit this library
+
 https://docs.enthought.com/mayavi/mayavi/example_heart.html
