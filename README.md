@@ -16,3 +16,5 @@ Best fit determines most probable depolarisation path
 
 Step 4:
 Draw selected loop on mesh with amplitude coloring
+
+https://docs.enthought.com/mayavi/mayavi/example_heart.html
