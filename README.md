@@ -2,7 +2,9 @@
 A simple ECGI solution using brute force methods.
 
 Step 1:
-Create a heart mesh using CT/MRI Data 
+Create a heart mesh using CT Data 
+- Total Segmentator via Python API?
+- 3D Slicer
 Fill Myocardium with evenly spaced nodes in a coordinate system
 - Research Filterung Algorithms/methods for Differentiation of myocardium and Rest
 - Research methods to cut away the valves, and atriae
